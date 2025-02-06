@@ -1,4 +1,4 @@
-# 🏆 Candangol - A Casa do Futebol Candango
+# 🏆 Candangol - A essência do futebol candango em um só lugar
 
 ![Candangol Banner](https://assets.candangol.com.br/common/candangol-blue.webp)
 
